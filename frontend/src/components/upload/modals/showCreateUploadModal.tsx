@@ -157,7 +157,7 @@ const CreateUploadModalBody = ({
       password: undefined,
       maxViews: undefined,
       description: undefined,
-      expiration_num: 30,
+      expiration_num: 90,
       expiration_unit: "-days",
       never_expires: false,
     },
